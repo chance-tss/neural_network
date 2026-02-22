@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.a
+my_torch_analyzer
+
+# Data files
+*.nn
+models/*.nn
+datasets/*.csv
+
+# System files
+run_tests
+dataset_converted/
+scripts/__pycache__/
+Mytorch.pdf
+Plan Technique My Torch.pdf
+plan_technique_my_torch.md
